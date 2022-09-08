@@ -4,8 +4,8 @@ We have a data which classified if patients have heart disease or not according 
 
 Data contains;
 
-age - age in years
-sex - (1 = male; 0 = female)
+### age - age in years
+### sex - (1 = male; 0 = female)
 cp - chest pain type
 trestbps - resting blood pressure (in mm Hg on admission to the hospital)
 chol - serum cholestoral in mg/dl
